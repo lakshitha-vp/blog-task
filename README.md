@@ -62,8 +62,8 @@ The client will typically run on `http://localhost:3000` and the server on `http
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
 ## License
-Specify your license here (e.g., MIT License).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or support, contact Lakshitha Veerath at [your-email@example.com].
+For questions or support, contact Lakshitha Veerath at [veerathlakshitha2004@gmail.com]
 # blog-task
